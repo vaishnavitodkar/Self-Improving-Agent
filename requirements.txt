@@ -1,0 +1,3 @@
+# Offline mode (default) needs only the Python 3.9+ standard library.
+# Live mode (--brain claude) additionally needs:
+anthropic>=0.40
